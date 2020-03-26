@@ -25,6 +25,7 @@ class Cource extends Component {
         alert(this.props.name);
     }
 
+    // arowFunction
     register = () => {
         alert(this.username.current.value);
     }
