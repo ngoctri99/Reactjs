@@ -33,7 +33,7 @@ class Cource extends Component {
 
     Showbtn(){
         const isFree = this.props.free;
-        console.log("isFree", isFree);
+        // console.log("isFree", isFree);
         if(isFree){
             return  <div className="btnview">
                     <button onClick={this.btnView} className="btn btn-danger"> view</button>
