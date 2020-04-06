@@ -1,0 +1,12 @@
+.product{
+    /* border: 1px solid #000; */
+    margin: 10px 0px;
+    background: rgba(124, 219, 211, 0.699);
+    height: 250px;
+    
+}
+
+.product h5{
+    text-align: center;
+    line-height: 35px;
+}

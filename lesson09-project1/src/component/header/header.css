@@ -1,0 +1,13 @@
+/* Css header */
+.header{
+    width: 100%;
+    height: 80px;
+    background: #000;
+}
+
+.header h3{
+    text-align-last: center;
+    color: #fafafa;
+    line-height: 80px;
+}
+/* End Header */
